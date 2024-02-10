@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text("Hi, Jane"),
+            const Text("Hi, Mahdi!"),
             Text(
               "How are you feeling today?",
               style: Theme.of(context).textTheme.bodySmall,
