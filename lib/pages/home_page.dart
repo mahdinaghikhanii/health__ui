@@ -24,9 +24,8 @@ class HomePage extends StatelessWidget {
         ),
         actions: [
           IconButton(
-            onPressed: () {},
-            icon: const Icon(Ionicons.notifications_outline),
-          ),
+              onPressed: () {},
+              icon: const Icon(Ionicons.notifications_outline)),
           IconButton(
             onPressed: () {},
             icon: const Icon(Ionicons.search_outline),
